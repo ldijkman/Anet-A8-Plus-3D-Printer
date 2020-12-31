@@ -6,7 +6,7 @@
 github renders the stt a bit stange
 to lock the z=axis bar instead of the ringlock 
 
-belt block instead of zip ties or is it tys teis i dont know 
+belt block instead of zip ties or is it tys teis i dont know no ty-raps
 
 cableclip not my design sorry = dont know who
 but handy for flat ribbon cable
