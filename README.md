@@ -33,3 +33,15 @@ and belt block for pullspring
 cableclip not my design sorry = dont know who
 but handy for flat ribbon cable
 cable clip fits in aluminium extrusion
+
+<img src="20201231_084122.jpg">
+
+<img src="20201231_084145.jpg">
+
+<img src="20201231_084230.jpg">
+
+<img src="20201231_084236.jpg">
+
+<img src="20201231_084251.jpg">
+
+<img src="20201231_084312.jpg">
