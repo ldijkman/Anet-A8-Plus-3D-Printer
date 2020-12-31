@@ -1,6 +1,6 @@
-# Anet-A8-Plus 140 Euo 3D printer 300x300300mm includes shipping dec2020
+# Anet-A8-Plus 140 Euo 3D printer 300x300x300mm includes shipping dec2020
 
-a cheap 3d printeer but nice frame design
+a cheap 3d printer but nice frame design
 
 but would like a belt between z axis to keep them timed/aligned
 
@@ -10,9 +10,9 @@ in ols matix printer and plotter they also used spings to tension belts
 pitty it can only beep and not play tone sounds like ender3
 bit outdated PCB = but no complains for that money
 
-direct replace the shitty lineaar ball on soft axis for 
-first printed later ordered plastic linear slides
-did not want to damage the axis with the garbage linear ball slides
+direct replace the shitty linear ball on soft axis for 
+first printed pla bus later ordered plastic linear slides
+did not want to damage the soft axis with the garbage linear ball slides
 
 
 
@@ -22,6 +22,7 @@ github renders the stt a bit stange
 to lock the z=axis bar instead of the ringlock 
 
 belt block instead of zip ties or is it tys teis i dont know no ty-raps
+and belt block for pullspring
 
 cableclip not my design sorry = dont know who
 but handy for flat ribbon cable
