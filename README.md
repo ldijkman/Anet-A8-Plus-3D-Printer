@@ -1,4 +1,4 @@
-# Anet-A8-Plus
+# Anet-A8-Plus 140 Euo 3D printer 300x300300mm includes shipping
 3d
 
 
