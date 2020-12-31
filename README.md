@@ -35,7 +35,7 @@ but handy for flat ribbon cable
 cable clip fits in aluminium extrusion
 
 
-my version of topplates
+my (NoPrusa) DutchOrange version of topplates
 
 no ring needed
 
@@ -56,7 +56,7 @@ scrap leftover belt to keep the cables up
 
 <img src="20201231_084251.jpg">
 
-my version of topplates
+my (NoPrusa) DutchOrange version of topplates
 
 no ring needed
 
