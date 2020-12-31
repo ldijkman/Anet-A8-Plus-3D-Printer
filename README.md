@@ -40,9 +40,12 @@ cable clip fits in aluminium extrusion
 
 <img src="20201231_084230.jpg">
 
-action tl led lamp 230vac 6watt 4euo
-
 <img src="20201231_084236.jpg">
+
+
+://www.action.nl tl led lamp 230vac 6watt 4euo
+
+scrap leftover belt to keep the cables up
 
 <img src="20201231_084251.jpg">
 
