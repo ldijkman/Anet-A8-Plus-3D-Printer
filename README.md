@@ -50,7 +50,7 @@ no ring needed
 <img src="20201231_084236.jpg">
 
 
-# ://www.ACTION.NL TL LED lamp 230vac 6watt 4euo
+# ://www.ACTION.NL   TL LED lamp 230vac 6watt 4euro
 
 scrap leftover belt to keep the cables up
 
