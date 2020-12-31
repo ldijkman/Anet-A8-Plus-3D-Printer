@@ -68,8 +68,8 @@ i dont know
 
 ## i am having problems to stick on glas
 
-
-
-
-## ESP32 Dumb Thermostat %% ESP32 Smart Thermostat
+#
+#
+#
+## ESP32 Dumb Thermostat && ESP32 Smart Thermostat
 # http://www.Arduino.TK
