@@ -1,4 +1,6 @@
-# Anet-A8-Plus 140 Euo 3D printer 300x300x300mm includes shipping dec2020
+# Anet-A8-Plus 140 Euo 3D printer 300x300x350mm includes shipping dec2020
+
+wil not go that high in Z but the 300x300 is nice
 
 a cheap 3d printer but nice frame design
 
