@@ -67,3 +67,9 @@ i dont know
 ## printing on sticker transfer paper (like painters paper stape)
 
 ## i am having problems to stick on glas
+
+
+
+
+## ESP32 Dumb Thermostat %% ESP32 Smart Thermostat
+# http://www.Arduino.TK
