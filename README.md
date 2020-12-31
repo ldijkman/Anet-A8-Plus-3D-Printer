@@ -61,3 +61,9 @@ scrap leftover belt to keep the cables up
 no ring needed
 
 <img src="20201231_084312.jpg">
+
+i dont know
+
+## printing on sticker transfer paper (like painters paper stape)
+
+## i am having problems to stick on glas
