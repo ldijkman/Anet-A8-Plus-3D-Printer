@@ -60,7 +60,7 @@ scrap leftover belt to keep the cables up
 
 no ring needed
 
-### printing a baseplate for art ESP32 Smart Thermostat
+### printing a ( DutchBlue ;-) baseplate for Art ESP32 Smart Thermostat 
 ### prototype TFT board http://www.Arduino.TK
 
 <img src="20201231_084312.jpg">
