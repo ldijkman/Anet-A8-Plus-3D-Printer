@@ -78,4 +78,4 @@ i dont know
 #
 #
 ## ESP32 Dumb Thermostat && ESP32 Smart Thermostat, OpenSource
-# NOW LIVE http://www.Arduino.TK
+# NOW LIVE @ http://www.Arduino.TK
