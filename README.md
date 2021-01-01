@@ -77,6 +77,13 @@ i dont know
 ## i am having problems to stick on glas
 
 #
+
+# i print via serial USB cable and have cut the +5vdc red wire
+# otherwise the computer keeps printer on,  when Printer powersupply is off
+
+<img src="https://github.com/ldijkman/Anet-A8-Plus-3D-Printer/blob/main/Slic3r_print_over_USB_Cut_The_Red_Wire.jpg">
+
+#
 #
 #
 ## ESP32 Dumb Thermostat && ESP32 Smart Thermostat, OpenSource
