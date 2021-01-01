@@ -70,7 +70,7 @@ no ring needed
 
 i dont know
 
-## printing on sticker transfer paper (like painters paper stape)
+## printing on sticker transfer paper (like painters paper tape)
 
 ## i am having problems to stick on glas
 
