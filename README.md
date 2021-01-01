@@ -49,6 +49,9 @@ no ring needed
 
 <img src="20201231_084236.jpg">
 
+Scratched mirror surface with sandpaper because i had problems with sticking 3d print
+
+<img src="https://github.com/ldijkman/Anet-A8-Plus-3D-Printer/blob/main/Scratched_mirror_surface_sandpaper.jpg">
 
 # ://www.ACTION.NL   TL LED lamp 230vac 6watt 4euro
 
@@ -74,5 +77,5 @@ i dont know
 #
 #
 #
-## ESP32 Dumb Thermostat && ESP32 Smart Thermostat
-# http://www.Arduino.TK
+## ESP32 Dumb Thermostat && ESP32 Smart Thermostat, OpenSource
+# NOW LIVE http://www.Arduino.TK
