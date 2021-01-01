@@ -78,6 +78,7 @@ i dont know
 
 #
 
+# Slic3r via serial cable usb print
 # i print via serial USB cable and have cut the +5vdc red wire
 # otherwise the computer keeps printer on,  when Printer powersupply is off
 
