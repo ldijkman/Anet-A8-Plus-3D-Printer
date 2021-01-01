@@ -49,7 +49,7 @@ no ring needed
 
 <img src="20201231_084236.jpg">
 
-Scratched mirror surface with sandpaper because i had problems with sticking 3d print
+# Scratched mirror surface with sandpaper because i had problems with sticking of 3d print to bed
 
 <img src="https://github.com/ldijkman/Anet-A8-Plus-3D-Printer/blob/main/Scratched_mirror_surface_sandpaper.jpg">
 
